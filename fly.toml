@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for hello-fly-btl33g on 2026-01-17T00:39:29Z
+# fly.toml app configuration file generated for hello-fly-vrtwlq on 2026-01-17T01:03:14Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'hello-fly-btl33g'
-primary_region = 'yyz'
+app = 'hello-fly-vrtwlq'
+primary_region = 'ams'
 
 [build]
 
